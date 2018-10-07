@@ -242,6 +242,7 @@ let g:syntastic_python_checkers = ['isort', 'flake8', 'pylint']
 
 " Bash checker
 let g:syntastic_sh_checkers = ['shellcheck']
+let g:syntastic_sh_shellcheck_args = "-x"
 
 " -- NERDTree settings --
 
