@@ -1,3 +1,0 @@
-[submodule "bundle/puppet"]
-	path = bundle/puppet
-	url = git://github.com/voxpupuli/vim-puppet.git
